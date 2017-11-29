@@ -1,0 +1,6 @@
+user name:exam
+password:niloy#!%!#!))@
+
+Admin Login:
+http://localhost/project-01/wp-login.php
+http://localhost/project-01/wp-admin/
